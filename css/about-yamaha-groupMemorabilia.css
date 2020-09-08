@@ -1,0 +1,32 @@
+@charset "utf-8";
+.memorabilia ul{
+  border: 1px solid #ECECEC;
+  margin: 52px 0 140px 0;
+}
+.memorabilia ul li{
+  height: 34px;
+  line-height: 34px;
+  float: left;
+}
+.memorabilia ul li .tab-title{
+  background-color: #E1E1E1;
+}
+.memorabilia ul li div{
+  font-size: 16px;
+}
+.memorabilia ul li .left{
+  width: 124px;
+  border: 1px solid #ECECEC;
+  text-align: center;
+}
+.memorabilia ul li .right{
+  width: 1071px;
+  border: 1px solid #ECECEC;
+  margin-left: -1px;
+}
+.memorabilia ul li .right h4{
+  text-align: center;
+}
+.memorabilia ul li .right p{
+  margin-left: 62px;
+}

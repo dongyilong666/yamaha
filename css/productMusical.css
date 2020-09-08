@@ -1,0 +1,146 @@
+@charset "utf-8";
+/* body */
+
+/* body-nav */
+.body-nav{
+  width: 100%;
+  margin-top: 100px;
+}
+.body-nav ul{
+  margin-top: 19px;
+}
+.body-nav ul li{
+  display: inline-block;
+  float: left;
+  margin-right: 18px;
+  font-size: 16px;
+}
+.body-nav ul li a{
+  color: #8F8F8F;
+}
+.body-nav ul li span{
+  color: #CCCCCC;
+  font-size: 12px;
+}
+.body-nav ul li a h4{
+  color: black;
+}
+/* body-nav end! */
+
+.body-title{
+  width: 100%;
+}
+.body-title p{
+  font-size: 32px;
+  line-height: 100px;
+}
+
+/* paino */
+.body-paino .txt p{
+	font-size: 16px;
+	line-height: 31px;
+}
+
+/* product */
+.body-product{
+	margin-top: 72px;
+}
+/* 选项卡 */
+.mt-tabpage {
+	background-color: #FFFFFF;
+}
+.mt-tabpage-title {
+	width: 100%;
+	height: 44px;
+	font-size: 0;
+	background-color: #fff;
+	background: #fff;
+	color: #333333;
+}
+.mt-tabpage-title .mt-tabpage-item {
+	display: inline-block;
+	width: 105px;
+	line-height: 44px;
+	text-align: center;
+	color: #666;
+	font-size: 12px;
+}
+.mt-tabpage-title .mt-tabpage-item-cur {
+	color: #A0A0A0;
+	font-size: 14px;
+	border-bottom: 5px solid #4B1E78;
+	margin-top: -1px;
+}
+.mt-tabpage-count {
+	position: relative;
+	height: 716px;
+	overflow: hidden;
+}
+.mt-tabpage-cont__wrap {
+	position: absolute;
+}
+.mt-tabpage-count .mt-tabpage-item {
+	width: 1200px;
+}
+.line{
+	width: 100%;
+	height: 2px;
+	background-color: #D6D4D4;
+	margin-top: 4px;
+}
+/* 选项卡 end! */
+
+/* 场合 occasion */
+.occasion-content div{
+	width: 383px;
+	display: inline-block;
+	margin-right: 17px;
+}
+.occasion-content div a img{
+	width: 383px;
+	height: 200px;
+}
+.occasion-content div p{
+	font-size: 20px;
+	line-height: 67px;
+}
+.occasion-content div span{
+	font-size: 16px;
+	color: #B3B3B3;
+	line-height: 30px;
+}
+
+/* 推荐 recommend */
+.recommend{
+	margin-top: 72px;
+}
+.recommend-content{
+	width: 100%;
+	margin-top: 7px;
+}
+.recommend-content div{
+	width: 383px;
+	margin-left: 25px;
+}
+.recommend-content .img{
+	width: 383px;
+}
+.recommend-content .img img{
+	width: 383px;
+	height: 278px;
+}
+.recommend-content .txt{
+	width: 379px;
+	border: 2px solid #EEEEEE;
+	margin-top: -2px;
+}
+.recommend-content .txt h3{
+	margin: 32px 0 21px 0;
+	padding: 0 35px;
+}
+.recommend-content .txt p{
+	font-size: 16px;
+	color: #B8B8B8;
+	line-height: 34px;
+	padding: 0 32px 24px 35px;
+}

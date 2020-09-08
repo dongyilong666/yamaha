@@ -1,0 +1,18 @@
+@charset "utf-8";
+.survey .img{
+  margin-top: 40px;
+  border: 1px solid #626262;
+}
+.survey .img img{
+  padding: 8px;
+  border: 1px solid #BABABA;
+}
+.survey .txt{
+  width: 832px;
+  margin: 40px 0 0 45px;
+}
+.survey .txt p{
+  font-size: 16px;
+  line-height: 30px;
+  margin: 30px 0;
+}

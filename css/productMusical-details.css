@@ -1,0 +1,128 @@
+@charset "utf-8";
+/* body */
+/* body-nav */
+.body-nav{
+  width: 100%;
+  margin-top: 100px;
+}
+.body-nav ul{
+  margin-top: 19px;
+}
+.body-nav ul li{
+  display: inline-block;
+  float: left;
+  margin-right: 18px;
+  font-size: 16px;
+}
+.body-nav ul li a{
+  color: #8F8F8F;
+}
+.body-nav ul li span{
+  color: #CCCCCC;
+  font-size: 12px;
+}
+.body-nav ul li a h4{
+  color: black;
+}
+/* body-nav end! */
+
+/* body-title */
+.body-title{
+  width: 100%;
+}
+.body-title p{
+  font-size: 32px;
+  line-height: 125px;
+}
+/* body-title end! */
+
+/* 摘要 abstract */
+.body .abstract-content .txt{
+  width: 790px;
+  margin-right: 79px;
+}
+.body .abstract-content .txt h3{
+  font-size: 24px;
+  line-height: 45px;
+  margin-top: 11px;
+}
+.body .abstract-content .txt p{
+  font-size: 18px;
+  line-height: 42px;
+}
+.body .abstract-content .txt span{
+  font-size: 16px;
+  line-height: 30px;
+}
+/* 摘要 abstract end! */
+
+/* 规格 specifications */
+.specifications{
+  margin-top: 70px;
+}
+.tab{
+  width: 1198px;
+  border: 1px solid #CCCCCC;
+  background-color: #F5F5F5;
+}
+.tab .top .left{
+  width: 327px;
+  line-height: 131px;
+  border: 1px solid #cccccc;
+}
+.tab .top .left div{
+  margin-left: 39px;
+}
+.tab .top .center{
+  width: 248px;
+  line-height: 43px;
+}
+.tab .top .center div{
+  border: 1px solid #cccccc;
+  padding-left: 39px;
+}
+.tab .top .right{
+  width: 621px;
+  line-height: 43px;
+}
+.tab .top .right div{
+  font-size: 18px;
+  border: 1px solid #cccccc;
+  padding-left: 39px;
+}
+.tab .bottom{
+  line-height: 68px;
+}
+.tab .bottom .left{
+  width: 575px;
+  border: 1px solid #cccccc;
+}
+.tab .bottom .right{
+  width: 619px;
+  border: 1px solid #cccccc;
+}
+
+.tab .bottom p{
+  font-size: 18px;
+  margin-left: 39px;
+}
+.tab .top .left,.center,.right div{
+  font-size: 18px;
+}
+/* 规格 specifications end! */
+
+/* 介绍 introduce */
+.introduce{
+  margin-top: 70px;
+}
+.introduce .txt p{
+  font-size: 16px;
+  line-height: 36px;
+}
+.introduce .img{
+  margin: 25px 0 45px 0;
+}
+.introduce .img img{
+  margin-right: 20px;
+}
+/* 介绍 introduce end! */
